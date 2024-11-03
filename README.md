@@ -16,16 +16,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Features](#features)
-2. [Commands](#commands)
-3. [Configuration](#configuration)
-4. [Usage](#usage)
-5. [Contact](#contact)
-
----
-
 ## Features
 
 - **Event Engagement**: Custom commands tailored to server events and celebrations with rewards.
