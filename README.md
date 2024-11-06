@@ -26,7 +26,7 @@
 
 ## Configuration
 
-Event400 is custom made by [Koriumm](github.com/Koriumm) and only works in a specific server. If you wish you to use this system, further configuration is required for the bot to function properly.  
+Event400 is custom made by [Koriumm](github.com/Koriumm) and only works in a specific server. If you wish you to use this system, further configuration is required for the bot to function properly.    
 Required Configurations:
 - Index File
 - Category, Channel, Server IDs
