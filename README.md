@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <b>Event400</b> is a Discord bot designed to celebrate reaching 400 members on Koriumm's Discord server. Bot is coded and ran using the NodeJs package of string based Discord bot manager AOI.Js v5.5.5 release.
+    <b>Event400</b> is a Discord bot designed to celebrate reaching 400 members on Kyvelu's Discord server. Bot is coded and ran using the NodeJs package of string based Discord bot manager AOI.Js v5.5.5 release.
 </p>
 
 <p align="center">
